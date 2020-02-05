@@ -1,3 +1,3 @@
 # Basic-UML-Diagram
 Basic UML Diagram - Exported as JPEG
-site is published at https://ronxdev.github.io/Basic-UML-Diagram/
+site is published at https://ronxdev.github.io/Basic-UML-Diagram/StatechartDiagram1.jpg
